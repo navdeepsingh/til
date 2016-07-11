@@ -10,6 +10,7 @@ The repository of all concise write-ups of my learnings about languages, program
 * [Vuejs](#vuejs)
 * [Laravel](#laravel)
 * [Bootstrap](#bootstrap)
+* [Jquery](#jquery)
 
 ---
 
@@ -22,4 +23,7 @@ The repository of all concise write-ups of my learnings about languages, program
 
 ### Bootstrap
 - [Load Dynamic (AJAX) modal in Bootstrap 3](bootstrap/load-dynamic-modal-bootstrap.md)
+
+### Jquery
+- [Event handle on dynamic loaded element](jquery/event-handle-dynamic-loaded-element.md)
 

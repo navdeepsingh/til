@@ -20,7 +20,7 @@ The repository of all concise write-ups of my learnings about languages, program
 
 ### Vuejs
 
-- [Basic intro and concept of Vuejs](vuejs/syncing-with-other-model.md)
+- [Basic intro and concept of Vuejs](vuejs/basic-intro-concept-vuejs.md)
 
 ### Laravel
 - [Form Requests](laravel/requests.md)

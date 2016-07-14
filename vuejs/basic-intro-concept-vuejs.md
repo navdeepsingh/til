@@ -10,26 +10,6 @@ Vuejs is another simple Javascript framework which mainly focus on views. Trying
 
 ![alt text](http://vuejs.org/images/mvvm.png "Data Driven View Concept")
 
-``` html
-<!-- this is our View -->
-<div id="example-1">
-  Hello {{ name }}!
-</div>
-```
-
-``` javascript
-// this is our Model
-var exampleData = {
-  name: 'Vue.js'
-}
-
-// create a Vue instance, or, a "ViewModel"
-// which links the View and the Model
-var exampleVM = new Vue({
-  el: '#example-1',
-  data: exampleData
-})
-```
 4. Term used mostly is **_reactive_** : The data and the DOM are now linked, and everything is now _reactive_
 
 5. API of Vuejs is collection of  very selective methods like Options, Methods, Filters and many more. [Vuejs API](https://vuejs.org/api/)

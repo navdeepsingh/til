@@ -17,6 +17,7 @@ The repository of all concise write-ups of my learnings about languages, program
 ### Eloquent
 
 - [Syncing with other model](eloquent/syncing-with-other-model.md)
+- [Get both models fields including pivot table](eloquent/get-both-models-fields.md)
 
 ### Vuejs
 

@@ -8,8 +8,6 @@ Vuejs is another simple Javascript framework which mainly focus on views. Trying
 
 3. Jquery is to manually manuplate the DOM with code, and the code is very imperative, repetitive and error prone. In Vuejs embraces the concept of **data-driven view**.
 
-![alt text](http://vuejs.org/images/mvvm.png "Data Driven View Concept")
-
 4. Term used mostly is **_reactive_** : The data and the DOM are now linked, and everything is now _reactive_
 
 5. API of Vuejs is collection of  very selective methods like Options, Methods, Filters and many more. [Vuejs API](https://vuejs.org/api/)
@@ -45,6 +43,8 @@ vm.a.b // -> 2
 vm.$set('c', 3)
 vm.c // -> 3
 ```
+
+![alt text](http://vuejs.org/images/mvvm.png "Data Driven View Concept")
 
 Reference : [Vuejs](http://vuejs.org/guide/overview.html)
 

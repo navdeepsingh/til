@@ -14,36 +14,6 @@ Vuejs is another simple Javascript framework which mainly focus on views. Trying
 
 6. Traditional getter/setter is being used also to get and set the value from and to the Vue instance.
 
-``` javascript
-// Usage of getter
-var vm = new Vue({
-  data: {
-    a: {
-      b: 1
-    }
-  }
-})
-vm.$get('a.b') // -> 1
-vm.$get('a.b + 1') // -> 2
-
-// Usage of setter
-var vm = new Vue({
-  data: {
-    a: {
-      b: 1
-    }
-  }
-})
-
-// set an existing path
-vm.$set('a.b', 2)
-vm.a.b // -> 2
-
-// set a non-existent path, will force digest
-vm.$set('c', 3)
-vm.c // -> 3
-```
-
 ![alt text](http://vuejs.org/images/mvvm.png "Data Driven View Concept")
 
 Reference : [Vuejs](http://vuejs.org/guide/overview.html)

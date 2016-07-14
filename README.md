@@ -18,6 +18,10 @@ The repository of all concise write-ups of my learnings about languages, program
 
 - [Syncing with other model](eloquent/syncing-with-other-model.md)
 
+### Vuejs
+
+- [Basic intro and concept of Vuejs](vuejs/syncing-with-other-model.md)
+
 ### Laravel
 - [Form Requests](laravel/requests.md)
 

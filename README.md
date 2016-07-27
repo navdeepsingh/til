@@ -11,6 +11,7 @@ The repository of all concise write-ups of my learnings about languages, program
 * [Laravel](#laravel)
 * [Bootstrap](#bootstrap)
 * [Jquery](#jquery)
+* [Facebook API](#facebookapi)
 
 ---
 
@@ -32,3 +33,5 @@ The repository of all concise write-ups of my learnings about languages, program
 ### Jquery
 - [Event handle on dynamic loaded element](jquery/event-handle-dynamic-loaded-element.md)
 
+### Facebook API
+- [Fewer default fields for faster performace](facebookapi/fewer-default-fields-for-faster-performance.md)

@@ -27,6 +27,7 @@ The repository of all concise write-ups of my learnings about languages, program
 
 ### Laravel
 - [Form Requests](laravel/requests.md)
+- [Handling assets versioning efficiently with Laravel Elixir](laravel/handling-assets-versioning-with-elixir.md)
 
 ### Bootstrap
 - [Load Dynamic (AJAX) modal in Bootstrap 3](bootstrap/load-dynamic-modal-bootstrap.md)

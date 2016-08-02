@@ -12,6 +12,7 @@ The repository of all concise write-ups of my learnings about languages, program
 * [Bootstrap](#bootstrap)
 * [Jquery](#jquery)
 * [Facebook API](#facebookapi)
+* [Git](#git)
 
 ---
 
@@ -35,3 +36,6 @@ The repository of all concise write-ups of my learnings about languages, program
 
 ### Facebook API
 - [Fewer default fields for faster performace](facebookapi/fewer-default-fields-for-faster-performance.md)
+
+### Git
+- [Get git repo url by command](git/get-git-repo-url.md)

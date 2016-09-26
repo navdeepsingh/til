@@ -1,6 +1,6 @@
 # Fewer default fields for faster performace
 
-I got surprised when i tried to get Albmum photos with FB.api but didn't get all fields in response. As i googled, I found The Graph API v2.4 reduces the number of fields in default responses.
+I got surprised when i tried to get Album photos with FB.api but didn't get all fields in response. As i googled, I found The Graph API v2.4 reduces the number of fields in default responses.
 
 Reference : https://developers.facebook.com/blog/post/2015/07/08/graph-api-v2.4/
 

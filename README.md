@@ -11,7 +11,7 @@ The repository of all concise write-ups of my learnings about languages, program
 * [Laravel](#laravel)
 * [Bootstrap](#bootstrap)
 * [Jquery](#jquery)
-* [Facebook API](#facebookapi)
+* [FacebookAPI](#facebookapi)
 * [Git](#git)
 * [Npm](#npm)
 
@@ -36,8 +36,9 @@ The repository of all concise write-ups of my learnings about languages, program
 ### Jquery
 - [Event handle on dynamic loaded element](jquery/event-handle-dynamic-loaded-element.md)
 
-### Facebook API
+### FacebookAPI
 - [Fewer default fields for faster performace](facebookapi/fewer-default-fields-for-faster-performance.md)
+- [App Access Token for accessing public photos](facebookapi/app-access-token-for-accessing-public-photos.md)
 
 ### Git
 - [Get git repo url by command](git/get-git-repo-url.md)

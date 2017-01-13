@@ -42,6 +42,7 @@ The repository of all concise write-ups of my learnings about languages, program
 
 ### Git
 - [Get git repo url by command](git/get-git-repo-url.md)
+- [Sync another repo into existing repo](git/sync-another-repo.md)
 
 ### Npm
 - [options meaning](npm/options-meaning.md)

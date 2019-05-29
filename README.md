@@ -9,7 +9,7 @@ The repository of all concise write-ups of my learnings about languages, program
 ### Categories
 
 - [Eloquent](#eloquent)
-- [Elint + Prettier + VSCode](#elint)
+- [Eslint + Prettier + VSCode](#eslint)
 - [Vuejs](#vuejs)
 - [Laravel](#laravel)
 - [Bootstrap](#bootstrap)
@@ -25,9 +25,9 @@ The repository of all concise write-ups of my learnings about languages, program
 - [Syncing with other model](eloquent/syncing-with-other-model.md)
 - [Get both models fields including pivot table](eloquent/get-both-models-fields.md)
 
-### Elint
+### Eslint
 
-- [Setting Up Elint + Prettier + VSCode](elint/setting-up-eslint.md)
+- [Setting Up Eslint + Prettier + VSCode](eslint/setting-up-eslint.md)
 
 ### Vuejs
 
